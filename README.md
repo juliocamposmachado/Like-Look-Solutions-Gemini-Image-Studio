@@ -3,6 +3,9 @@
 Transforme suas imagens em arte com inteligência!  
 Apresentamos o **Gemini Image Studio**, a ferramenta da **Like Look Solutions** que leva suas fotos a um novo nível.
 
+<img width="1234" height="722" alt="image" src="https://github.com/user-attachments/assets/ea9b71b2-f0c8-46ed-b661-0f98d0485721" />
+
+
 ## ✨ O que você pode fazer
 Com apenas alguns cliques, você pode converter qualquer imagem em estilos artísticos incríveis:
 
