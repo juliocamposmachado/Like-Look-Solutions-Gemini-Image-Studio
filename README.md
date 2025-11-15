@@ -1,20 +1,21 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 🎨 Gemini Image Studio – Like Look Solutions
 
-# Run and deploy your AI Studio app
+Transforme suas imagens em arte com inteligência!  
+Apresentamos o **Gemini Image Studio**, a ferramenta da **Like Look Solutions** que leva suas fotos a um novo nível.
 
-This contains everything you need to run your app locally.
+## ✨ O que você pode fazer
+Com apenas alguns cliques, você pode converter qualquer imagem em estilos artísticos incríveis:
 
-View your app in AI Studio: https://ai.studio/apps/drive/1aB8NSJYljhV5ghyopfkx7c22aD5uoR16
+- ✍️ **Aquarela** – para um toque delicado  
+- 📸 **Vintage** – para um ar nostálgico  
+- 🌈 **Neon** – para um visual vibrante  
+- 🤘 **Punk** – para ousadia e atitude  
+- 🖌️ **Cartoonify** – para dar vida em traços marcantes e cheios de cor  
 
-## Run Locally
+## 🚀 Por que usar?
+✨ Sua imagem, elevada pela inteligência.  
+Seja para projetos criativos, redes sociais ou diversão, o **Gemini Image Studio** é a maneira mais fácil de transformar ideias em arte.
 
-**Prerequisites:**  Node.js
+## 👉 Experimente agora
+Descubra como a inteligência artificial pode dar um novo estilo às suas criações!
 
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
